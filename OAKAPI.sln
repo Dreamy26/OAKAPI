@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAKAPI", "OAKAPI\OAKAPI.csproj", "{9BB3EB50-E86C-4786-8B76-0A2DA2C8A518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB3EB50-E86C-4786-8B76-0A2DA2C8A518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB3EB50-E86C-4786-8B76-0A2DA2C8A518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB3EB50-E86C-4786-8B76-0A2DA2C8A518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB3EB50-E86C-4786-8B76-0A2DA2C8A518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {026876BA-4EF9-414B-8C1C-8B802AEDDD99}
+	EndGlobalSection
+EndGlobal
